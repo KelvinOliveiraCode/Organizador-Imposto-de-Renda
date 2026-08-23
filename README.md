@@ -3,21 +3,6 @@
 Ferramenta completa desenvolvida em **Microsoft Excel** para organizar e reunir as informações essenciais da declaração de Imposto de Renda de Pessoa Física (IRPF).
 
 > Projeto criado para o desafio da [DIO](https://www.dio.me/) — "Construindo um Organizador de Declaração de Imposto de Renda no Excel".
-
----
-
-## 🎨 Identidade Visual
-
-O projeto segue uma paleta **preto, branco e cinza** (substituindo o rosa utilizado nos exemplos de referência), garantindo uma interface neutra, profissional e de alto contraste.
-
-| Cor | Uso |
-|-----|-----|
-| Preto (`#1A1A1A`) | Títulos, cabeçalhos e totais |
-| Cinza escuro (`#3F3F3F`) | Seções e subtítulos |
-| Cinza médio (`#808080`) | Bordas e destaques de validação |
-| Cinza claro (`#D9D9D9`) | Efeito zebrado (leitura fácil) |
-| Branco (`#FFFFFF`) | Campos de preenchimento |
-
 ---
 
 ## 📁 Estrutura do Projeto
@@ -94,15 +79,6 @@ python gerar_planilha.py
 - [GitHub Quick Start (DIO)](https://github.com/digitalinnovationone/github-quick-start)
 - [Documentação do GitHub](https://docs.github.com/pt)
 - [GitHub Markdown Guide](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-
----
-
-## 📝 Entrega do Desafio
-
-Este repositório atende aos requisitos de entrega:
-- ✅ Repositório público no GitHub
-- ✅ `README.md` detalhado
-- ✅ Arquivos relevantes (`Organizador_IRPF.xlsx`, script gerador)
 - ✅ Pasta `images/` para capturas de tela (opcional)
 
 **Bons estudos!** 🚀
