@@ -46,7 +46,7 @@ A planilha inteira é descrita em `gerar_planilha.py`: abas, validações, fórm
 
 ### Autor
 
-**Kelvin Oliveira** — [GitHub](https://github.com/KelvinOliveiraCode) · [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-0282033b4/)
+**Kelvin Oliveira** — [GitHub](https://github.com/KelvinOliveiraCode) · [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-code/)
 
 ---
 
@@ -82,4 +82,4 @@ The entire workbook is described in `gerar_planilha.py`: sheets, validations, fo
 
 ### Author
 
-**Kelvin Oliveira** — [GitHub](https://github.com/KelvinOliveiraCode) · [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-0282033b4/)
+**Kelvin Oliveira** — [GitHub](https://github.com/KelvinOliveiraCode) · [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-code/)
